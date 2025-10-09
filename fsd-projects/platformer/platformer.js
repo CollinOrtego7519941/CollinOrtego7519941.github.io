@@ -49,15 +49,23 @@ createPlatform(500 ,125, 400, 10);
 
 
     // TODO 3 - Create Collectables
-createCollectable("max", 700, 525);
-createCollectable("max", 150, 375);
-createCollectable("max", 700, 525);
-createCollectable("max", 700, 525);
+createCollectable("max", 680, 510);
+createCollectable("max", 127, 360);
+createCollectable("max", 1227, 360);
+createCollectable("max", 927, 260);
+createCollectable("max", 427, 260);
+createCollectable("max", 680, 87);
 
 
     
     // TODO 4 - Create Cannons
-
+createCannon("top", 409, 800, 20, 20);
+createCannon("right", 358, 6000, 20, 20);
+createCannon("top", 1109, 800, 20, 20);
+createCannon("left", 238, 6000, 20, 20);
+createCannon("bottom", 641, 1500, 20, 20);
+createCannon("right", 158, 8000, 90, 90);
+createCannon("left", 38, 8000, 90, 90);
 
     
     
